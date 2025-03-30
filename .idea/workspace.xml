@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5e22209d-f065-4b06-a16b-cc76d7893657" name="Changes" comment="efficient net">
+    <list default="true" id="5e22209d-f065-4b06-a16b-cc76d7893657" name="Changes" comment="efficient net completed">
+      <change afterPath="$PROJECT_DIR$/image_processing/Image_processing/vision Transformer/vision transformer.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/image_processing/Image_processing/Efficient net/Efficient net.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/image_processing/Image_processing/Efficient net/Efficient net.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,16 +49,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Unnamed.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/cohbe/Desktop/Tensor_Flow/image_processing&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.intellij.jupyter.core.jupyter.connections.configuration.JupyterServerConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Unnamed.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/cohbe/Desktop/Tensor_Flow/image_processing",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\cohbe\Desktop\Tensor_Flow\image_processing" />
@@ -110,6 +110,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="efficient net models" />
     <MESSAGE value="efficient net" />
-    <option name="LAST_COMMIT_MESSAGE" value="efficient net" />
+    <MESSAGE value="efficient net completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="efficient net completed" />
   </component>
 </project>
