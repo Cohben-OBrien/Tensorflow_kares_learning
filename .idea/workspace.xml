@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5e22209d-f065-4b06-a16b-cc76d7893657" name="Changes" comment="efficient net models">
-      <change afterPath="$PROJECT_DIR$/image_processing/Image_processing/Efficient net/Efficient net.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jupyter-settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jupyter-settings.xml" afterDir="false" />
+    <list default="true" id="5e22209d-f065-4b06-a16b-cc76d7893657" name="Changes" comment="efficient net">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/image_processing/Image_processing/image classification/image classification.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/image_processing/Image_processing/image classification/image classification.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image_processing/Image_processing/Efficient net/Efficient net.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/image_processing/Image_processing/Efficient net/Efficient net.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,6 +109,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="efficient net models" />
-    <option name="LAST_COMMIT_MESSAGE" value="efficient net models" />
+    <MESSAGE value="efficient net" />
+    <option name="LAST_COMMIT_MESSAGE" value="efficient net" />
   </component>
 </project>
