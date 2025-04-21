@@ -4,9 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5e22209d-f065-4b06-a16b-cc76d7893657" name="Changes" comment="efficient net completed">
-      <change afterPath="$PROJECT_DIR$/image_processing/Image_processing/vision Transformer/vision transformer.ipynb" afterDir="false" />
+    <list default="true" id="5e22209d-f065-4b06-a16b-cc76d7893657" name="Changes" comment="bird vs drone classication from kaggle using image classification from screatch method">
+      <change afterPath="$PROJECT_DIR$/image_processing/Image_processing/Sequential model/Sequential API.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image_processing/Image_processing/bird vs drone/Bird vs drone ViT.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image_processing/Image_processing/image_segmentation/image_segementation.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jupyter-settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jupyter-settings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image_processing/Image_processing/image classification/image classification.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/image_processing/Image_processing/image classification/image classification.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,13 +59,17 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/cohbe/Desktop/Tensor_Flow/image_processing",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+    "last_opened_file_path": "C:/Users/cohbe/Desktop/Tensor_Flow/video processing",
+    "settings.editor.selected.configurable": "com.intellij.jupyter.core.jupyter.connections.configuration.JupyterServerConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\cohbe\Desktop\Tensor_Flow\image_processing" />
+      <recent name="C:\Users\cohbe\Desktop\Tensor_Flow\image_processing\Image_processing\image_segmentation" />
+      <recent name="C:\Users\cohbe\Desktop\Tensor_Flow\image_processing\Image_processing\image_segmentation\images" />
+      <recent name="C:\Users\cohbe\Desktop\Tensor_Flow\image_processing\Image_processing\bird vs drone" />
+      <recent name="C:\Users\cohbe\Desktop\Tensor_Flow\image_processing\Image_processing" />
+      <recent name="C:\Users\cohbe\Desktop\Tensor_Flow\image_processing\Image_processing\image classification" />
     </key>
   </component>
   <component name="RunManager">
@@ -91,7 +99,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-a8e928d85084-fab4200a9dfa-com.jetbrains.pycharm.ds.sharedIndexes.bundled-DS-243.22562.236" />
+        <option value="bundled-python-sdk-f2b3473ffc3f-fab4200a9dfa-com.jetbrains.pycharm.ds.sharedIndexes.bundled-DS-243.25659.44" />
       </set>
     </attachedChunks>
   </component>
@@ -111,6 +119,9 @@
     <MESSAGE value="efficient net models" />
     <MESSAGE value="efficient net" />
     <MESSAGE value="efficient net completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="efficient net completed" />
+    <MESSAGE value="vision transformer model using ViT" />
+    <MESSAGE value="MLP image classification" />
+    <MESSAGE value="bird vs drone classication from kaggle using image classification from screatch method" />
+    <option name="LAST_COMMIT_MESSAGE" value="bird vs drone classication from kaggle using image classification from screatch method" />
   </component>
 </project>

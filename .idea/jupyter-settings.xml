@@ -15,7 +15,7 @@
           <value>
             <JupyterConnectionParameters>
               <option name="managed" value="true" />
-              <option name="sdkName" value="Python 3.10.12 WSL (Ubuntu-22.04): (/home/cohben/.virtualenvs/machine_learning/bin/python)" />
+              <option name="sdkName" value="" />
             </JupyterConnectionParameters>
           </value>
         </entry>
