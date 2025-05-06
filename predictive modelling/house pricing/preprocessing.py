@@ -12,9 +12,11 @@ numeric_attributes = ['longitude', 'latitude', 'housing_median_name', 'total_roo
 category_attributes = ['ocean_proximity']
 
 numeric_pipeline = Pipeline([
-    SimpleImputer(strategy='median'),
-    StandardScaler(),
+    ("impute", SimpleImputer(strategy="median")),
+    ("standardize", StandardScaler()),
 ])
+
+
 
 cat_pipe = Pipeline([
     SimpleImputer(strategy='most_frequent'),
@@ -32,6 +34,8 @@ preprocessing = make_column_transformer(
     (numeric_attributes, make_column_selector(dtype_include=np.number)),
     (category_attributes, make_column_selector(dtype_include=object))
 )
+
+
 
 
 
